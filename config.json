@@ -81,11 +81,6 @@
       "name": "黑木耳资源",
       "detail": "https://json.heimuer.xyz"
     },
-    "360zy": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源",
-      "detail": "https://360zy.com"
-    },
     "gszy": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "光速资源",
@@ -215,16 +210,6 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "虎牙",
       "detail": "https://www.huyaapi.com"
-    },
-    "kbzy": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "快播资源",
-      "detail": "https://gayapi.com"
-    },
-    "xxbzy": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "X细胞资源",
-      "detail": "https://www.xxibaozyw.com"
     },
     "bwzy": {
       "api": "https://api.baiwanapi.com/api.php/provide/vod",
